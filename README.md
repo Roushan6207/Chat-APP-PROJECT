@@ -24,13 +24,13 @@ A full-stack real-time messaging application built using the MERN stack, Socket.
 
 ![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
 
-![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/d072625ef92af22f01d5370f39e40ff33d4dce8e/image2.png)
 
-![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/d072625ef92af22f01d5370f39e40ff33d4dce8e/image3.png)
 
-![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/d072625ef92af22f01d5370f39e40ff33d4dce8e/image4.png)
 
-![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/d072625ef92af22f01d5370f39e40ff33d4dce8e/image5.png)
 
 ## 📦 Installation & Setup
 
