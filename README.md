@@ -22,15 +22,15 @@ A full-stack real-time messaging application built using the MERN stack, Socket.
 
 ## 📷 Screenshots
 
-_("E:\project_screenshoot\image1.png")_
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
 
-_("E:\project_screenshoot\image2.png")_
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
 
-_("E:\project_screenshoot\image3.png")_
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
 
-_("E:\project_screenshoot\image4.png")_
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
 
-_("E:\project_screenshoot\image5.png")_
+![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
 
 ## 📦 Installation & Setup
 
