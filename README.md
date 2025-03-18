@@ -21,15 +21,19 @@ A full-stack real-time messaging application built using the MERN stack, Socket.
 - **Database**: MongoDB with Mongoose
 
 ## 📷 Screenshots
-
+##Account Create Page
 ![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/4763d46f77e5cfeb72a08743eefc0dbfa8284de2/image1.png)
 
+## Login Page
 ![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/d072625ef92af22f01d5370f39e40ff33d4dce8e/image2.png)
 
+##Chat Page
 ![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/d072625ef92af22f01d5370f39e40ff33d4dce8e/image3.png)
 
+##Profile Page
 ![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/d072625ef92af22f01d5370f39e40ff33d4dce8e/image4.png)
 
+##Setting Page
 ![Image Description](https://github.com/Roushan6207/Chat-APP-PROJECT/blob/d072625ef92af22f01d5370f39e40ff33d4dce8e/image5.png)
 
 ## 📦 Installation & Setup
