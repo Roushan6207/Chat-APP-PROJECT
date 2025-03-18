@@ -22,15 +22,15 @@ A full-stack real-time messaging application built using the MERN stack, Socket.
 
 ## 📷 Screenshots
 
-![Screenshot 1]("E:\project_screenshoot\image1.png")
+_("E:\project_screenshoot\image1.png")_
 
-![Screenshot 2](path_to_image_2)
+_("E:\project_screenshoot\image2.png")_
 
-![Screenshot 3](path_to_image_3)
+_("E:\project_screenshoot\image3.png")_
 
-![Screenshot 4](path_to_image_4)
+_("E:\project_screenshoot\image4.png")_
 
-![Screenshot 5](path_to_image_5)
+_("E:\project_screenshoot\image5.png")_
 
 ## 📦 Installation & Setup
 
