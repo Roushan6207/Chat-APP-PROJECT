@@ -20,6 +20,18 @@ A full-stack real-time messaging application built using the MERN stack, Socket.
 - **Authentication**: JWT (JSON Web Tokens)
 - **Database**: MongoDB with Mongoose
 
+## 📷 Screenshots
+
+![Screenshot 1]("E:\project_screenshoot\image1.png")
+
+![Screenshot 2](path_to_image_2)
+
+![Screenshot 3](path_to_image_3)
+
+![Screenshot 4](path_to_image_4)
+
+![Screenshot 5](path_to_image_5)
+
 ## 📦 Installation & Setup
 
 1. **Clone the Repository**
@@ -44,7 +56,7 @@ A full-stack real-time messaging application built using the MERN stack, Socket.
    ```env
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
-   CLIENT_URL=http://localhost:5173
+   CLIENT_URL=http://localhost:3000
    ```
 
 4. **Run the Application**
@@ -97,6 +109,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 🔥 **Happy Coding!** 🚀
-
-
-
