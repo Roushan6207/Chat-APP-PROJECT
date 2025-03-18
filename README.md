@@ -44,7 +44,7 @@ A full-stack real-time messaging application built using the MERN stack, Socket.
    ```env
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
-   CLIENT_URL=http://localhost:3000
+   CLIENT_URL=http://localhost:5173
    ```
 
 4. **Run the Application**
